@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_NgWh1cQ82TjdxTqk3mb-1" value="aaa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="_NgWh1cQ82TjdxTqk3mb-2" value="&lt;article data-identifier-application__slash__x-doc-key=&quot;8K4nyRp7xzpjqLbj&quot; data-identifier-application__slash__x-cangjie-fragment=&quot;JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMmNsb3VkLWtlZXBlci1wYWNrYWdlcyUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCU1RCU3RA==&quot; data-clipboard-cangjie=&quot;[&amp;quot;root&amp;quot;,{},[&amp;quot;p&amp;quot;,{},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;text&amp;quot;},[&amp;quot;span&amp;quot;,{&amp;quot;data-type&amp;quot;:&amp;quot;leaf&amp;quot;},&amp;quot;cloud-keeper-packages&amp;quot;]]]]&quot; class=&quot;4ever-article&quot;&gt;&lt;p style=&quot;text-align: left; margin-left: 0px; margin-top: 0px; margin-bottom: 0px;&quot;&gt;【&lt;span style=&quot;background-color: initial;&quot;&gt;cloud-keeper-packages&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;】项目：构建全量包&lt;/span&gt;&lt;/p&gt;&lt;/article&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
